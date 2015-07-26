@@ -4,4 +4,5 @@
 *.DS_Store
 *.d
 
+grbl/config_original.h
 README.md
